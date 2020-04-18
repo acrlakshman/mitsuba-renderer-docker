@@ -1,4 +1,4 @@
-# docker image build -f Dockerfile -t mitsuba-renderer-nogui:latest .
+# docker image build -f Dockerfile -t mitsuba-renderer:latest .
 FROM ubuntu:18.04
 
 ARG numprocs=4
